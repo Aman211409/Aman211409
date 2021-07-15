@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Aman Mittal
-😄 Sophomore and ML Developer   
+😄 Pre-Final year and ML Developer   
 
  <img src="assets/hadder.gif" align="right" width="500" height="300" />
  
