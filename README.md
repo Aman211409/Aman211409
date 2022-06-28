@@ -1,8 +1,6 @@
-👨‍🎓 Pursuing B.Tech in Mechanical Engineering from IIT (ISM) Dhanbad
-
 <h1 align="center">Aman Mittal (Him/His)</h1>
 
-I am a final-year undergraduate at IIT (ISM), Dhanbad. My main interests lie in Data Science, Data Analysis, Machine Learning, Deep Learning, Computer Vision, Time Series Analysis and Forecasting. Having participated in diverse hackathons ranging from college to international level and a handful of professional internships/fellowships, I want to apply the knowledge gathered from these experiences and help research and develop state-of-the-art solutions. Rather than AI and programming, I spend my time gathering finanacial knowledge on Business Cases, Investment.
+I am a final-year undergraduate at IIT (ISM), Dhanbad 👨‍🎓 pursuing B.Tech in Mechanical Engineering from IIT (ISM) Dhanbad. My main interests lie in Data Science, Data Analysis, Machine Learning, Deep Learning, Computer Vision, Time Series Analysis and Forecasting and have a specialized interest in Industry 4.0. Having participated in diverse hackathons ranging from college to international level and a handful of professional internships/fellowships, I want to apply the knowledge gathered from these experiences and help research and develop state-of-the-art solutions. Rather than AI and programming, I spend my time gathering finanacial knowledge on Business Cases, Investment.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman211409" alt="aman" /> </p>
 
@@ -29,6 +27,7 @@ I am a final-year undergraduate at IIT (ISM), Dhanbad. My main interests lie in 
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=c&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -65,20 +64,20 @@ I am a final-year undergraduate at IIT (ISM), Dhanbad. My main interests lie in 
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </span>
     
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <a href="https://twitter.com/gunjanh1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gunjanh1999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gunjan-h-5624a51a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunjan-h-5624a51a4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amanm2109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanm2109" height="30" width="40" /></a>
 <a href="https://discord.gg/Amenotejikara#9364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Amenotejikara#9364" height="30" width="40" /></a>
 
-Email: gunjanhaldar1999@gmail.com
+Email: amaniit2109@gmail.com
+Contact: +91-9835063191
 <br>
 
 
