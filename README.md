@@ -44,7 +44,7 @@ I am a final-year undergraduate at IIT (ISM), Dhanbad 👨‍🎓 pursuing B.Tec
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MS-SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/MS-SQL-07405E?style=for-the-badge&logo=mssql&logoColor=white">
 </span>
 
 <h4> IDE </h4>
@@ -66,7 +66,7 @@ I am a final-year undergraduate at IIT (ISM), Dhanbad 👨‍🎓 pursuing B.Tec
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-%23FF9900.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </span>
     
 
