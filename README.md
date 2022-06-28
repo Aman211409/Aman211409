@@ -27,7 +27,7 @@ I am a final-year undergraduate at IIT (ISM), Dhanbad 👨‍🎓 pursuing B.Tec
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=html5&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
