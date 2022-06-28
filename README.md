@@ -44,7 +44,7 @@ I am a final-year undergraduate at IIT (ISM), Dhanbad 👨‍🎓 pursuing B.Tec
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MS-SQL-07405E?style=for-the-badge&logo=mssql&logoColor=white">
+  <img src="https://img.shields.io/badge/MS-SQL-07405E?style=for-the-badge&logo=microsoft&logoColor=white">
 </span>
 
 <h4> IDE </h4>
@@ -64,7 +64,7 @@ I am a final-year undergraduate at IIT (ISM), Dhanbad 👨‍🎓 pursuing B.Tec
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-%23FF9900.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </span>
@@ -72,11 +72,11 @@ I am a final-year undergraduate at IIT (ISM), Dhanbad 👨‍🎓 pursuing B.Tec
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-<a href="https://twitter.com/gunjanh1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gunjanh1999" height="30" width="40" /></a>
+<a href="https://twitter.com/AmanM_2109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AmanM_2109" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amanm2109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanm2109" height="30" width="40" /></a>
-<a href="https://discord.gg/Amenotejikara#9364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Amenotejikara#9364" height="30" width="40" /></a>
 
 Email: amaniit2109@gmail.com
+<br>
 Contact: +91-9835063191
 <br>
 
